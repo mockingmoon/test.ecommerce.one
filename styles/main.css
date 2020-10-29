@@ -1,0 +1,59 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.search-form {
+    border-radius: 3px;
+    padding: 2px 1px 2px 1px;
+    margin: 0 10px;
+}
+
+#searchbar {
+    border: none;
+    width: 30vw;
+}
+
+.nav-item {
+    margin: 0 5px;
+    padding: 0 2px;
+}
+
+.nav-link:hover {
+    background: royalblue;
+}
+
+#home-carousel {
+    margin: 10px 5px;
+}
+
+#category-header {
+    margin: 0 5px;
+    background-color: rgb(80, 255, 138);
+    text-align: center;
+}
+
+.card {
+    padding: 2px 2px;
+    margin: 10px 10px;
+}
+
+.card:hover {
+    border-width: 5px;
+}
+
+.list-card {
+    margin: 10px 0px;
+    padding: 10px 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.list-card:hover {
+    margin: 20px 10px;
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.2);
+}
+
+#cart-counter {
+    width: 15%;
+}
+
